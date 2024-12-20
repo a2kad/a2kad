@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img src="https://res.cloudinary.com/dzdyzl4r5/image/upload/v1686382414/flucent_developer_banner_slbgbj.png" alt="flucent developer banner">
 
 ## Hi there, I'm Ruslan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
@@ -10,11 +9,11 @@ My clients love Javascript React. Who am I?
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folarin-ogungbemi&layout=compact&theme=buefy&card_width=400&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br /><br />
-<!-- Current -->
+<!-- Current 
 #### 🔭 Fullstack Application (E-commerce)
 Building an E-commerce Store with React-Typescript on frontend and Django REST framework(DRF) as Backend. 
 #### 🌱 Data Analyst
-I am currently analysing and visualizing data with MySQL, Python and PowerBI
+I am currently analysing and visualizing data with MySQL, Python and PowerBI-->
 
 <br />
 <!-- Tecnologies -->
