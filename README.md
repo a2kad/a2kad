@@ -12,7 +12,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 ## 🧰 Tech Stack
 
 ### Languages
-<table>
+<table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></td>
@@ -27,7 +27,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 </table>
 
 ### Frontend
-<table>
+<table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB" /></td>
     <td><img src="https://img.shields.io/badge/React_Native-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB" /></td>
@@ -42,7 +42,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 </table>
 
 ### Backend & CMS
-<table>
+<table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Express-%23404d59?style=flat-square&logo=express&logoColor=white" /></td>
@@ -53,7 +53,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 </table>
 
 ### Databases
-<table>
+<table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white" /></td>
@@ -63,7 +63,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 </table>
 
 ### DevOps & Tools
-<table>
+<table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white" /></td>
@@ -74,7 +74,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 </table>
 
 ### Hosting & Cloud
-<table>
+<table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Google_Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=white" /></td>
@@ -85,7 +85,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 </table>
 
 ### Data Science
-<table>
+<table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white" /></td>
@@ -94,7 +94,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 </table>
 
 ### Design
-<table>
+<table border="0">
   <tr>
     <td><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white" /></td>
