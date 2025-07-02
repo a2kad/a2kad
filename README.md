@@ -12,7 +12,7 @@ I'm a full-stack and mobile developer with strong experience in web technologies
 ## 🧰 Tech Stack
 
 ### Languages
-<table border="0">
+<table border=0>
   <tr>
     <td><img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></td>
